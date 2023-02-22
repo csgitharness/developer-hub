@@ -76,7 +76,11 @@ Select your target environment: **Kubernetes** or **Docker**.
 
 ## Kubernetes environment
 
+<<<<<<< HEAD
 In **Install your Delegate**, select [**Helm Chart**](#helm-based-install-on-kubernetes), [**Terraform**](#terraform-based-install-on-kubernetes), or [**Kubernetes Manifest**](#kubernetes-based-install-on-kubernetes).
+=======
+In **Install your Delegate**, select [**Helm Chart**](#helm-based-install-on-kubernetes), [**Terraform**](#terraform-based-install-on-terraform), or [**Kubernetes Manifest**](#kubernetes-based-install-on-kubernetes).
+>>>>>>> 4a6ce39e7cfd5563a7467926f88d111d4c762bab
 
 ```mdx-code-block
 <img src={install_eleven} width="350" />
